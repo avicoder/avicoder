@@ -1,5 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=avicoder&show_icons=true&hide=stars&count_private=true" align="left">
-
-<br>
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=avicoder&countColorcountColor&countColor=%237B1E7A)
+<img src="https://github-readme-stats.vercel.app/api?username=avicoder&show_icons=true&hide=stars&count_private=true" align="left"/>
+<img src="https://images.youracclaim.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" align="right" height="100px" width="100px"/>
