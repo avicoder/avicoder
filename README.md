@@ -4,4 +4,8 @@
 <img src="https://images.credly.com/size/680x680/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" align="left" height="110px" width="110px"/>
 <img src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" align="left" height="110px" width="110px"/>
 <img src="https://raw.githubusercontent.com/avicoder/Dual-TZ/master/Dual-TZ.png" align="left" height="110px" width="110px"/>
+<img src="https://mk0mitreengenuiwvkqe.kinstacdn.com/wp-content/uploads/2021/03/CTI-Certification.png" align="left" height="130px" width=""/>
 </div>
+
+
+
